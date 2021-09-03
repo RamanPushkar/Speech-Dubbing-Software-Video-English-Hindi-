@@ -4,6 +4,15 @@ Step 1:
 Download the executable file:
 Click on the below link for the Speech Dubbing Software Executable file that is,
 Speech Dubbing Software.exe.
+
+
+
+**
+Zip File Passwd:bpmcemadhepura     **
+
+
+
+you can also download here fron derive link
 https://drive.google.com/file/d/1pFVDR_Rg0M1kpgdkQHgZiV47p1GQzn09/view?usp=sharing
 
 Step 2: 
