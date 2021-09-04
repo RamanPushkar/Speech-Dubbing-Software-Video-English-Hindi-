@@ -11,8 +11,6 @@ Speech Dubbing Software.exe.
 Zip File Passwd: send mail on spaceorn@gmail.com
 
 
-you can also download here fron derive link
-https://drive.google.com/file/d/1pFVDR_Rg0M1kpgdkQHgZiV47p1GQzn09/view?usp=sharing
 
 Step 2: 
 Installation/Configuration
