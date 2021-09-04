@@ -8,8 +8,7 @@ Speech Dubbing Software.exe.
 
 
 **
-Zip File Passwd:bpmcemadhepura     **
-
+Zip File Passwd: send mail on spaceorn@gmail.com
 
 
 you can also download here fron derive link
