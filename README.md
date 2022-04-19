@@ -8,7 +8,7 @@ Speech Dubbing Software.exe.
 
 
 **
-Zip File Passwd: send mail on spaceorn@gmail.com
+Zip File Passwd: send mail on dev.pushkarkumar@gmail.com
 
 
 
