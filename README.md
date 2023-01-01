@@ -5,13 +5,6 @@ Download the executable file:
 Click on the below link for the Speech Dubbing Software Executable file that is,
 Speech Dubbing Software.exe.
 
-
-
-**
-Zip File Passwd: send mail on dev.pushkarkumar@gmail.com
-
-
-
 Step 2: 
 Installation/Configuration
 After getting .exe file you can create a desktop shortcut of that .exe file as following –
