@@ -17,33 +17,21 @@ After getting .exe file you can create a desktop shortcut of that .exe file as f
 
 	
 4.	You can drag your shortcut on the desktop.
-5.	
 Step 3:
 Running the Speech Dubbing Software 
 	
 1)	Double click on the desktop icon or the .exe file. By clicking the command prompt open.
-
-
-
 2)	You can maximise the appeared window for a better experience.
-
-
 3)	After some seconds user interface of Speech Dubbing Software will appear.
-
 Step 3:
 Dubbing
 	
 1)	Click on choose file for dubbing an English Audio Speech .mp4 file into Hindi Audio Speech .mp4 file.
-
-
 2)	Select your .mp4 file that you have to dub.
-
-
 3)	After selection click on Open. Dubbing takes some more time, after some time a popup window appears that inform your file will be dubbed
 Step 4:
 Saving
 1)	For saving dubbed file click on Save.
-
 2)	Confirmation popup appears on window click on yes.
 3)	The file will be saved successfully.
  
@@ -61,8 +49,5 @@ Step 6:
 Playing Converted .mp4 Hindi Audio File
 
 1)	Go to the directory D:\Speech Dubbing.
-
-
-
 2)	Double click on the Converted.mp4 file.
 3)	Now enjoy your desire file.
